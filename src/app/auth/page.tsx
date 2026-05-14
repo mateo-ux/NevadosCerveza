@@ -46,9 +46,9 @@ export default function AuthPage() {
                 </p>
                 <div style={{
                     marginTop: 10, fontSize: 9, fontWeight: 200,
-                    color: '#3a4a30', letterSpacing: '0.25em', textTransform: 'uppercase',
+                    color: '#8a9280', letterSpacing: '0.25em', textTransform: 'uppercase',
                 }}>
-                    Nevados · comprometidos con el páramo de Caldas
+                    Nevados · comprometidos con los páramos de Caldas
                 </div>
             </div>
 

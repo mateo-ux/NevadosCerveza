@@ -76,7 +76,7 @@ const beers = [
         nombre: 'Porter Negra',
         subtitulo: 'Abismo del Volcán',
         abv: '4.5%', ibu: '16.8 IBU', og: '1.047',
-        descripcion: 'Oscura como la roca volcánica, con maltas de chocolate y caramelo del Eje Cafetero. Un cuerpo denso y suave que te lleva al fondo del cráter.',
+        descripcion: 'Oscura como la roca volcánica, con maltas de chocolate y caramelo del Eje Cafetero. Un cuerpo denso y suave que te lleva a disfrutar el frio y el calor del Leon Dormido.',
         logo: <LogoPorter />,
         acento: '#6b4028',
     },
